@@ -2,7 +2,7 @@ package com.example.taxesapi.service;
 
 import com.example.taxesapi.dto.BillOutputDTO;
 import com.example.taxesapi.dto.ProductInputDTO;
-import com.example.taxesapi.model.Product;
+import com.example.taxesapi.entity.Product;
 import com.example.taxesapi.util.TaxUtils;
 import org.springframework.stereotype.Service;
 

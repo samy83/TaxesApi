@@ -1,4 +1,4 @@
-package com.example.taxesapi.model;
+package com.example.taxesapi.entity;
 
 public enum Category {
     BOOK,

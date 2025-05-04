@@ -2,7 +2,7 @@ package com.example.taxesapi;
 
 import com.example.taxesapi.dto.BillOutputDTO;
 import com.example.taxesapi.dto.ProductInputDTO;
-import com.example.taxesapi.model.Category;
+import com.example.taxesapi.entity.Category;
 import com.example.taxesapi.service.BillService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
